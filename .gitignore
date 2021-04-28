@@ -1,0 +1,8 @@
+/Pytorch/MNIST/*
+/Pytorch/Beginners/NN/data/*
+/Pytorch/Beginners/NN/PennFudanPed/*
+/Pytorch/Beginners/NN/model.pth
+.ipynb_checkpoints
+.jovianrc
+__pycache__
+
